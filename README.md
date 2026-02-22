@@ -1,3 +1,4 @@
+<img width="544" height="431" alt="image" src="https://github.com/user-attachments/assets/47be288c-3a1c-46f6-bff3-291d1b059b51" />
 # Weather App
 
 This is a professional-grade weather application developed to provide real-time weather data to users.
