@@ -20,8 +20,8 @@ This is a professional-grade weather application developed to provide real-time 
 To run this project locally, follow these steps:
 1. Clone the repository.
 2. Navigate to the project folder.
-3. Install dependencies using `npm install`.
-4. Run the application using `npm start`.
+3. Install flask using `pip install flask`.
+4. Run the application using `python app.py`.
 
 ## Contribution
 
